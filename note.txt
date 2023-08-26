@@ -1,0 +1,17 @@
+node module installation
+
+global
+dev
+depend
+
+//node module installation
+npm install
+npm i 
+
+//global installation 
+npm install --global nodemon
+npm i -g nodemon
+
+//depend installation
+npm i -D multer
+npm install --dev multer
